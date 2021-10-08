@@ -7,3 +7,5 @@ This crowdsale contract will manage the entire process, allowing users to send E
 This contract will mint the tokens automatically and distribute them to buyers in one transaction.
 It will need to inherit Crowdsale, CappedCrowdsale, TimedCrowdsale, RefundableCrowdsale, and MintedCrowdsale.
 You will conduct the crowdsale on the Kovan or Ropsten testnet in order to get a real-world pre-production test in.
+
+![alt text](https://github.com/victorlfreire/erc20-token-crowdfund-project/blob/main/Images/crowd.jpg)
